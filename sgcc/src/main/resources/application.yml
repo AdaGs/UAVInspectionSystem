@@ -1,0 +1,13 @@
+server:
+  port: 40002
+  tomcat:
+    uri-encoding: UTF-8
+spring:
+  data:
+    mongodb:
+      uri: mongodb://123.56.158.7:27017/UAVInspectionSys
+
+Administrator:
+  name: zhaojianguo
+  email: zhaojianguo@sgepri.sgcc.com.cn
+  phone:  18500289183
