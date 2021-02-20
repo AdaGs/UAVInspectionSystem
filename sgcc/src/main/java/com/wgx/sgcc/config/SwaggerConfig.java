@@ -1,4 +1,4 @@
-package com.wgx.sgcc.config;
+package com.gjdw.stserver.config;
 
 
 import io.swagger.annotations.ApiOperation;
@@ -15,7 +15,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * SwaggerConfig
  *
- * @author zhaokang
+ * @author zk
  * @version 2020-09-01
  */
 @Configuration
